@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icone/apropos.png</file>
+        <file>icone/calc.png</file>
+        <file>icone/choisir.png</file>
+        <file>icone/configuration.png</file>
+        <file>icone/demarre.png</file>
+        <file>icone/ficcfg.png</file>
+        <file>icone/fictrv.png</file>
+        <file>icone/liaison.png</file>
+        <file>icone/multistartapp.png</file>
+        <file>icone/nouvcont.png</file>
+        <file>icone/nouvproj.png</file>
+        <file>icone/quitter1.png</file>
+        <file>icone/quitter2.png</file>
+        <file>icone/recadrer.png</file>
+        <file>icone/sauvegarder1.png</file>
+        <file>icone/sauvegarder2.png</file>
+        <file>icone/attache.png</file>
+        <file>icone/poubelle.png</file>
+        <file>icone/supprimer1.png</file>
+        <file>icone/supprimer2.png</file>
+        <file>icone/tuerprocess.png</file>
+        <file>icone/editeur.png</file>
+    </qresource>
+</RCC>
